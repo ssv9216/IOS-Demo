@@ -1,0 +1,18 @@
+PODS:
+  - SPPermission/Core (4.1)
+  - SPPermission/Location (4.1):
+    - SPPermission/Core
+
+DEPENDENCIES:
+  - SPPermission/Location
+
+SPEC REPOS:
+  trunk:
+    - SPPermission
+
+SPEC CHECKSUMS:
+  SPPermission: 2a07b0c4ee6b1a37dc0174b6a4c970ff9a5dd7bd
+
+PODFILE CHECKSUM: 4c299d428baf7062c85bf99ebecd147fe4267f81
+
+COCOAPODS: 1.10.0
